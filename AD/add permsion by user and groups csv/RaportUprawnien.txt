@@ -1,0 +1,44 @@
+2025-06-09 15:56:47 - User: SYSTEM, Group: Administrator, Action: Globalna weryfikacja grupy, Status: Powodzenie, Message: Grupa istnieje w AD i jest zarz�dzana.
+2025-06-09 15:56:47 - User: SYSTEM, Group: ChecklistProcessorManager, Action: Globalna weryfikacja grupy, Status: Powodzenie, Message: Grupa istnieje w AD i jest zarz�dzana.
+2025-06-09 15:56:47 - User: SYSTEM, Group: ChecklistUser, Action: Globalna weryfikacja grupy, Status: Powodzenie, Message: Grupa istnieje w AD i jest zarz�dzana.
+2025-06-09 15:56:47 - User: SYSTEM, Group: CoachingProcessorManager, Action: Globalna weryfikacja grupy, Status: Powodzenie, Message: Grupa istnieje w AD i jest zarz�dzana.
+2025-06-09 15:56:47 - User: SYSTEM, Group: CoachingUser, Action: Globalna weryfikacja grupy, Status: Powodzenie, Message: Grupa istnieje w AD i jest zarz�dzana.
+2025-06-09 15:56:47 - User: SYSTEM, Group: HQChecklistProcessorManager, Action: Globalna weryfikacja grupy, Status: Powodzenie, Message: Grupa istnieje w AD i jest zarz�dzana.
+2025-06-09 15:56:47 - User: SYSTEM, Group: HRTaskUser, Action: Globalna weryfikacja grupy, Status: Powodzenie, Message: Grupa istnieje w AD i jest zarz�dzana.
+2025-06-09 15:56:47 - User: SYSTEM, Group: MarketingTaskEditor, Action: Globalna weryfikacja grupy, Status: Powodzenie, Message: Grupa istnieje w AD i jest zarz�dzana.
+2025-06-09 15:56:47 - User: SYSTEM, Group: MarketingTaskUser, Action: Globalna weryfikacja grupy, Status: Powodzenie, Message: Grupa istnieje w AD i jest zarz�dzana.
+2025-06-09 15:56:47 - User: SYSTEM, Group: OperationalTaskEditor, Action: Globalna weryfikacja grupy, Status: Powodzenie, Message: Grupa istnieje w AD i jest zarz�dzana.
+2025-06-09 15:56:47 - User: SYSTEM, Group: OperationalTaskUser, Action: Globalna weryfikacja grupy, Status: Powodzenie, Message: Grupa istnieje w AD i jest zarz�dzana.
+2025-06-09 15:56:47 - User: SYSTEM, Group: StockTakingProcesorManager, Action: Globalna weryfikacja grupy, Status: Powodzenie, Message: Grupa istnieje w AD i jest zarz�dzana.
+2025-06-09 15:56:47 - User: SYSTEM, Group: StockUser, Action: Globalna weryfikacja grupy, Status: Powodzenie, Message: Grupa istnieje w AD i jest zarz�dzana.
+2025-06-09 15:56:47 - User: kowalski, Group: ChecklistUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: kowalski, Group: CoachingUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: kowalski, Group: HQChecklistProcessorManager, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: kowalski, Group: HRTaskUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: kowalski, Group: OperationalTaskEditor, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: kowalski, Group: OperationalTaskUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: kowalski, Group: StockUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: kowalska, Group: ChecklistUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: kowalska, Group: CoachingUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: kowalska, Group: HRTaskUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: kowalska, Group: OperationalTaskUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: kowalska, Group: StockUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: adamowicz, Group: HRTaskUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: adamowicz, Group: OperationalTaskUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: adamowicz, Group: StockUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: kulka, Group: ChecklistUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: kulka, Group: CoachingUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: kulka, Group: HRTaskUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: kulka, Group: OperationalTaskUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: pietrzak, Group: CoachingUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: pietrzak, Group: HRTaskUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: pietrzak, Group: OperationalTaskUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: domaradzki, Group: ChecklistProcessorManager, Action: Usuni�to z grupy, Status: Powodzenie, Message: U�ytkownik usuni�ty (nie ma go w CSV).
+2025-06-09 15:56:47 - User: domaradzki, Group: ChecklistUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: domaradzki, Group: CoachingUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: domaradzki, Group: HRTaskUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: domaradzki, Group: OperationalTaskUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: domaradzki, Group: StockUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: cieslak, Group: ChecklistUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: cieslak, Group: CoachingUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.
+2025-06-09 15:56:47 - User: cieslak, Group: HRTaskUser, Action: Dodano do grupy, Status: Powodzenie, Message: U�ytkownik dodany.

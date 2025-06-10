@@ -1,0 +1,8 @@
+﻿UserLogin;PrzypisanaGrupa1;PrzypisanaGrupa2;KolejnaGrupa;GrupaProjektowaX;DostepSpecjalny;DostepSpecjalny1;DostepSpecjalny2;DostepSpecjalny3;DostepSpecjalny4;DostepSpecjalny5;DostepSpecjalny6;DostepSpecjalny7;DostepSpecjalny8
+kowalski;ChecklistUser;StockUser;CoachingUser;HQChecklistProcessorManager;OperationalTaskUser;OperationalTaskEditor;HRTaskUser;;;;;;
+kowalska;ChecklistUser;StockUser;CoachingUser;OperationalTaskUser;HRTaskUser;;;;;;;;
+adamowicz;StockUser;OperationalTaskUser;HRTaskUser;;;;;;;;;;
+kulka;ChecklistUser;CoachingUser;OperationalTaskUser;HRTaskUser;;;;;;;;;
+pietrzak;CoachingUser;OperationalTaskUser;HRTaskUser;;;;;;;;;;
+domaradzki;ChecklistUser;StockUser;CoachingUser;OperationalTaskUser;HRTaskUser;;;;;;;;
+cieslak;ChecklistUser;CoachingUser;OperationalTaskUser;HRTaskUser;;;;;;;;;

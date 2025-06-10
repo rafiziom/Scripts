@@ -1,0 +1,1 @@
+.\Dodanie.ps1 -CsvInputPath .\UserGroupsAssignment.csv -ReportPath ".\RaportUprawnien.txt"
